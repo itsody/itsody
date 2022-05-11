@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @itsody
+- 👋 Hi, I’m Ahmad or you can call me OD
 - 🌱 I’m currently learning cpp
 - 📫 How to reach me https://www.instagram.com/1tsody
