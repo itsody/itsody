@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @itsody
+- 🌱 I’m currently learning cpp
+- 📫 How to reach me https://www.instagram.com/1tsody
